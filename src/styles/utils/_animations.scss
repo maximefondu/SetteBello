@@ -1,0 +1,11 @@
+@keyframes numberNow{
+  100%{
+    transform: translateY(100%);
+  }
+}
+
+@keyframes numberBefore{
+  100%{
+    transform: translateY(0);
+  }
+}
